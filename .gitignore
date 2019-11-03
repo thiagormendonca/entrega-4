@@ -1,0 +1,11 @@
+ngo ###
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+
+.vscode/
+db.sqlite3
+backend/db.sqlite3
+backend/api/migrations/
